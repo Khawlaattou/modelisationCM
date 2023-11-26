@@ -1,4 +1,4 @@
-#problematique
+<h1>problematique</h1>
 2 boites: A et B, chacune contient r boules. Au total, il existe r rouges et r vertes
 A chaque etape, une boulle est choisie  aleatoirement de A et de B et chacune est deplacée de sa boite vers l'autre boite
 -Definir une CM(avec sa matrice de transition) qui decrit le nombre des boulles rouges et vertes dans chacune des boites
